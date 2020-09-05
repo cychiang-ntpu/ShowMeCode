@@ -1,0 +1,101 @@
+<!DOCTYPE html><html lang="en"><head>
+  <meta charset="utf-8">
+  <title>國立臺北大學</title>
+  <!--  123456  -->
+  <base href="">
+  <meta content="國立臺北大學主校區位於新北市三峽區，自1949年起歷經行政專校、中興法商最後在2000年改制為綜合大學。" name="description">
+  <meta content="國立臺北大學,National Taipei University,NTPU" name="keywords">
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <link href="../favicon.ico" rel="icon" type="image/x-icon">
+  <link href="../manifest.webmanifest" rel="manifest">
+  <meta content="#1976d2" name="theme-color">
+
+  <meta content="國立臺北大學" property="og:title">
+  <meta content="https://cms.carrier.ntpu.edu.tw/uploads/8d03554e2e3a4f8dacbcad536cf70bfc.jpg" property="og:image">
+  <meta content="website" property="og:type">
+  <meta content="校區位於新北市三峽區，自1949年起歷經行政專校、中興法商最後在2000年改制為綜合大學。" property="og:description">
+
+  <meta content="summary" name="twitter:card">
+
+  <meta content="IE=edge" http-equiv="X-UA-Compatible">
+
+  <!--  CSS  -->
+  <link href="https://www.w3schools.com/w3css/4/w3.css" rel="stylesheet">
+  <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
+  <link href="../assets/css/style.css" rel="stylesheet">
+  <link href="../assets/css/style-responsive.css" rel="stylesheet">
+  <link href="../assets/css/vertical-rhythm.min.css" rel="stylesheet">
+  <link href="../assets/css/et-line.css" rel="stylesheet">
+
+
+  <script async="" crossorigin="anonymous" src="https://kit.fontawesome.com/17efbc02fd.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500|Dosis:300,400,700|Noto+Sans+TC:300,400,700|Noto+Serif+TC:300,400,700|Open+Sans:300,400,400i,700,700i&amp;display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-146899699-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+  </script>
+
+<link rel="stylesheet" href="../styles.87b28dc09645020031ab.css"><style ng-transition="serverApp"></style></head>
+<body class="appear-animate">
+<app-root _nghost-sc75="" class="ng-tns-c75-0" ng-version="10.0.6"><div _ngcontent-sc75="" id="top" class="page ng-tns-c75-0"><app-header _ngcontent-sc75="" class="ng-tns-c75-0" _nghost-sc17=""><div _ngcontent-sc17="" class="top-bar no-print"><div _ngcontent-sc17="" class="container clearfix"><ul _ngcontent-sc17="" class="top-links left"><li _ngcontent-sc17=""><a _ngcontent-sc17="" href="tel:+886226711234">HEADER.緊急電話：02-2671-1234</a></li><li _ngcontent-sc17=""><a _ngcontent-sc17="" href="http://sea.cc.ntpu.edu.tw/pls/ld/campus_dir.main" rel="noopener" target="_blank">HEADER.校園聯絡簿</a></li><li _ngcontent-sc17=""><a _ngcontent-sc17="" href="https://cms.carrier.ntpu.edu.tw/uploads/ntpu/Academic%20Calendar.pdf">HEADER.行事曆</a></li><li _ngcontent-sc17=""><a _ngcontent-sc17="" href="http://lms.ntpu.edu.tw/board.php?courseID=54659" rel="noopener" target="_blank">HEADER.校長遴選</a></li><li _ngcontent-sc17=""><a _ngcontent-sc17="" href="../SYSTEM.VARIABLE.舊網址">HEADER.回舊首頁</a></li></ul><ul _ngcontent-sc17="" class="top-links right tooltip-bot"><li _ngcontent-sc17=""><a _ngcontent-sc17="" routerlink="freshman" href="../freshman">HEADER.新鮮人</a></li><li _ngcontent-sc17=""><a _ngcontent-sc17="" routerlink="students" href="../students">HEADER.在校學生</a></li><li _ngcontent-sc17=""><a _ngcontent-sc17="" routerlink="intl-students" href="../intl-students">HEADER.國際|僑陸生</a></li><li _ngcontent-sc17=""><a _ngcontent-sc17="" routerlink="alumnus" href="../alumnus">HEADER.校友</a></li><li _ngcontent-sc17=""><a _ngcontent-sc17="" routerlink="faculty-staff" href="../faculty-staff">HEADER.教職員</a></li><li _ngcontent-sc17=""><a _ngcontent-sc17="" routerlink="guest" href="../guest">HEADER.訪客</a></li><li _ngcontent-sc17=""><a _ngcontent-sc17="" href="https://www.ntpu.edu.tw/chinese/top/accessibility.php">HEADER.無障礙</a></li></ul></div></div><!----></app-header><router-outlet _ngcontent-sc75="" class="ng-tns-c75-0"></router-outlet><app-law _nghost-sc178="" class="ng-star-inserted"><section _ngcontent-sc178="" class="small-section pt-10 pb-10"><div _ngcontent-sc178="" class="container align-center"><div _ngcontent-sc178="" class="row"><a _ngcontent-sc178="" routerlink="/law" href="../law"><img _ngcontent-sc178="" alt="" src="../assets/logo/ntpu_law_logo.png" style="height: 90px;"></a></div></div></section><hr _ngcontent-sc178="" class="mt-0 mb-0"><nav _ngcontent-sc178="" class="main-nav mn-centered not-top mb-0 animated fadeInDown"><div _ngcontent-sc178="" class="relative clearfix"><div _ngcontent-sc178="" class="mobile-nav"><i _ngcontent-sc178="" class="fa fa-bars"></i></div><div _ngcontent-sc178="" class="inner-nav desktop-nav"><ul _ngcontent-sc178="" class="clearlist"><li _ngcontent-sc178=""><a _ngcontent-sc178="" routerlink="/law" href="../law">GENERAL.最新消息</a></li><li _ngcontent-sc178=""><a _ngcontent-sc178="" href="javascript:void(0)" class="mn-has-sub">GENERAL.關於本院 <i _ngcontent-sc178="" class="fa fa-angle-down"></i></a><ul _ngcontent-sc178="" class="mn-sub"><li _ngcontent-sc178=""><a _ngcontent-sc178="" routerlink="/law/about" href="about">GENERAL.本院簡介</a></li><li _ngcontent-sc178=""><a _ngcontent-sc178="" routerlink="/law/dean" href="dean">GENERAL.院長簡介</a></li><li _ngcontent-sc178=""><a _ngcontent-sc178="" routerlink="/law/associate-deans" href="associate-deans">GENERAL.副院長簡介</a></li><li _ngcontent-sc178=""><a _ngcontent-sc178="" routerlink="/law/members" href="members">GENERAL.成員介紹</a></li></ul></li><li _ngcontent-sc178=""><a _ngcontent-sc178="" href="javascript:void(0);" class="mn-has-sub">GENERAL.所屬單位 <i _ngcontent-sc178="" class="fa fa-angle-down"></i></a><ul _ngcontent-sc178="" class="mn-sub"><li _ngcontent-sc178=""><a _ngcontent-sc178="" rel="noopener" target="_blank" href="https://www.law.ntpu.edu.tw/english">GENERAL.法律學系</a></li><li _ngcontent-sc178=""><a _ngcontent-sc178="" href="https://cplaw.ntpu.edu.tw/" rel="noopener" target="_blank">GENERAL.比較法資料中心</a></li><li _ngcontent-sc178=""><a _ngcontent-sc178="" routerlink="/law/energy-center" href="energy-center">GENERAL.能源、環境與人類社會研究中心</a></li><li _ngcontent-sc178=""><a _ngcontent-sc178="" href="javascript:void(0)" class="mn-has-sub">GENERAL.學科型中心 <i _ngcontent-sc178="" class="fa fa-angle-right right"></i></a><ul _ngcontent-sc178="" class="mn-sub"><li _ngcontent-sc178=""><a _ngcontent-sc178="" rel="noopener" target="_blank" href="https://www.law.ntpu.edu.tw/english/?page_id=2671">GENERAL.公法中心</a></li><li _ngcontent-sc178=""><a _ngcontent-sc178="" rel="noopener" target="_blank" href="https://www.law.ntpu.edu.tw/english/?page_id=2661">GENERAL.民事法研究中心</a></li><li _ngcontent-sc178=""><a _ngcontent-sc178="" rel="noopener" target="_blank" href="https://www.law.ntpu.edu.tw/english/?page_id=2669">GENERAL.刑事法中心</a></li><li _ngcontent-sc178=""><a _ngcontent-sc178="" rel="noopener" target="_blank" href="https://www.law.ntpu.edu.tw/english/?page_id=2663">GENERAL.財經法研究中心</a></li><li _ngcontent-sc178=""><a _ngcontent-sc178="" rel="noopener" target="_blank" href="https://www.law.ntpu.edu.tw/english/?page_id=2667">GENERAL.國際法中心</a></li><li _ngcontent-sc178=""><a _ngcontent-sc178="" rel="noopener" target="_blank" href="https://www.law.ntpu.edu.tw/english/?page_id=2674">GENERAL.基礎法學中心</a></li><li _ngcontent-sc178=""><a _ngcontent-sc178="" rel="noopener" target="_blank" href="https://www.law.ntpu.edu.tw/english/?page_id=2659">GENERAL.勞動法研究中心</a></li></ul></li><li _ngcontent-sc178=""><a _ngcontent-sc178="" routerlink="/law/student-society" href="student-society">GENERAL.學生社團</a></li></ul></li><li _ngcontent-sc178=""><a _ngcontent-sc178="" href="javascript:void(0);" class="mn-has-sub">GENERAL.師資介紹 <i _ngcontent-sc178="" class="fa fa-angle-down"></i></a><ul _ngcontent-sc178="" class="mn-sub"><li _ngcontent-sc178=""><!----><a _ngcontent-sc178="" href="https://www.law.ntpu.edu.tw/english/?page_id=3022" rel="noopener" target="_blank" class="ng-star-inserted">GENERAL.客座講座</a><!----></li><li _ngcontent-sc178=""><!----><a _ngcontent-sc178="" href="https://www.law.ntpu.edu.tw/english/?page_id=3022" rel="noopener" target="_blank" class="ng-star-inserted">GENERAL.名譽教授</a><!----></li><li _ngcontent-sc178=""><a _ngcontent-sc178="" rel="noopener" target="_blank" href="https://www.law.ntpu.edu.tw/english/?page_id=5233">GENERAL.專任教授</a></li><li _ngcontent-sc178=""><a _ngcontent-sc178="" rel="noopener" target="_blank" href="https://www.law.ntpu.edu.tw/english/?page_id=5356">GENERAL.兼任教授</a></li></ul></li><!----><li _ngcontent-sc178=""><a _ngcontent-sc178="" routerlink="/law/regulations" href="regulations">GENERAL.相關法規</a></li><li _ngcontent-sc178=""><a _ngcontent-sc178="" routerlink="/law/documents" href="documents">GENERAL.表單下載</a></li><!----><li _ngcontent-sc178=""><a _ngcontent-sc178="" aria-label="中英語系切換" href="javascript:void(0);"><i _ngcontent-sc178="" class="fa fa-globe-asia ng-star-inserted"></i> 中文 <!----><!----><!----></a></li></ul></div></div></nav><router-outlet _ngcontent-sc178=""></router-outlet><app-simple _nghost-sc105="" class="ng-star-inserted"><!----><app-head-section _ngcontent-sc105="" _nghost-sc82="" class="ng-star-inserted"><section _ngcontent-sc82="" class="small-section bg-gray-lighter"><div _ngcontent-sc82="" class="relative container align-left"><div _ngcontent-sc82="" class="row"><div _ngcontent-sc82="" class="col-md-8"><h1 _ngcontent-sc82="" class="hs-line-11 font-alt mb-20 mb-xs-0">GENERAL.國際交流</h1><div _ngcontent-sc82="" class="hs-line-4 font-alt black"> GENERAL. </div></div><div _ngcontent-sc82="" class="col-md-4 mt-30"><div _ngcontent-sc82="" class="mod-breadcrumbs font-alt align-right"><a _ngcontent-sc82="" href="../law" class="ng-star-inserted">GENERAL.法律學院</a><!----><!---->&nbsp;/&nbsp;<span _ngcontent-sc82="">GENERAL.國際交流</span></div></div></div></div></section></app-head-section><app-section _ngcontent-sc105="" _nghost-sc73="" class="ng-star-inserted"><div _ngcontent-sc73="" class="ng-star-inserted"><!----><div _ngcontent-sc73="" class="ng-star-inserted"><section class="page-section">
+<div class="container relative">
+<div style="float: right;"><a href="sister-colleges" class="btn btn-mod btn-border btn-medium btn-round" target="_blank" rel="noopener">Sister Colleges</a> <a href="international-events" class="btn btn-mod btn-border btn-medium btn-round" target="_blank" rel="noopener">News</a></div>
+<h2>Introduction</h2>
+<p><span style="color: #000000; font-family: 'Noto Sans Tc', 微軟正黑體; font-size: 12pt;"><span style="color: #000000; font-family: Noto Sans Tc, 微軟正黑體;"><span style="font-size: 16px;">NTPU College of Law continues to promote various opportunities of international academic exchange. </span></span></span><span style="color: #000000; font-family: 'Noto Sans Tc', 微軟正黑體; font-size: 16px;">You can click the "Sister College" column on the right side to view the list. We will keep updating the </span><span style="color: #000000; font-family: 'Noto Sans Tc', 微軟正黑體; font-size: 16px;"></span><span style="color: #000000; font-family: 'Noto Sans Tc', 微軟正黑體; font-size: 16px;">relevant information&nbsp;</span><span style="color: #000000; font-family: 'Noto Sans Tc', 微軟正黑體; font-size: 16px;">on the homepage in the future. If you need any further&nbsp;</span><span style="color: #000000; font-family: 'Noto Sans Tc', 微軟正黑體; font-size: 16px;">information, please feel free to contact us.</span></p>
+</div>
+</section></div><!----><!----><!----><!----><!----><!----></div><!----></app-section><!----><!----><!----><!----><!----></app-simple><!----></app-law><!----><app-footer _ngcontent-sc75="" class="ng-tns-c75-0" _nghost-sc74=""><footer _ngcontent-sc74="" class="page-section bg-gray-lighter footer pb-60 no-print"><div _ngcontent-sc74="" class="container"><div _ngcontent-sc74="" class="row"><div _ngcontent-sc74="" class="col-md-3"><div _ngcontent-sc74="" data-wow-duration="1.5s" class="local-scroll mb-30 wow fadeInUp"><a _ngcontent-sc74="" href="../index.html#top"><h1 _ngcontent-sc74="">FOOTER.國立臺北大學</h1></a></div><div _ngcontent-sc74="" class="footer-social-links mb-110 mb-xs-60"><a _ngcontent-sc74="" href="https://www.facebook.com/NTPU1949" rel="noopener" target="_blank" title="Facebook"><i _ngcontent-sc74="" class="fab fa-facebook-f"></i></a><a _ngcontent-sc74="" href="https://twitter.com/ntpu1949" rel="noopener" target="_blank" title="Twitter"><i _ngcontent-sc74="" class="fab fa-twitter"></i></a><a _ngcontent-sc74="" href="https://tw.linkedin.com/school/national-taipei-university" rel="noopener" target="_blank" title="LinkedIn+"><i _ngcontent-sc74="" class="fab fa-linkedin"></i></a><a _ngcontent-sc74="" href="https://www.facebook.com/pg/NTPU1949/photos/?tab=albums" rel="noopener" target="_blank" title="Photos"><i _ngcontent-sc74="" class="fa fa-images"></i></a><a _ngcontent-sc74="" href="https://www.ntpu.edu.tw/chinese/rss/" rel="noopener" target="_blank" title="RSS"><i _ngcontent-sc74="" class="fa fa-rss"></i></a></div></div><div _ngcontent-sc74="" class="col-md-4"><div _ngcontent-sc74="" style="text-align: left;"><h4 _ngcontent-sc74="">FOOTER.聯絡資訊</h4><p _ngcontent-sc74=""><b _ngcontent-sc74="">FOOTER.三峽校區</b><br _ngcontent-sc74=""><b _ngcontent-sc74="">FOOTER.地址：</b>SYSTEM.VARIABLE.三峽校區地址<br _ngcontent-sc74=""><b _ngcontent-sc74="">FOOTER.電話：</b>SYSTEM.VARIABLE.三峽校區電話<br _ngcontent-sc74=""><br _ngcontent-sc74=""><b _ngcontent-sc74="">FOOTER.臺北校區</b><br _ngcontent-sc74=""><b _ngcontent-sc74="">FOOTER.地址：</b>SYSTEM.VARIABLE.臺北校區地址<br _ngcontent-sc74=""><b _ngcontent-sc74="">FOOTER.電話：</b>SYSTEM.VARIABLE.臺北校區電話<br _ngcontent-sc74=""><br _ngcontent-sc74=""></p></div></div><div _ngcontent-sc74="" class="col-md-5"><div _ngcontent-sc74="" class="row"><div _ngcontent-sc74="" style="text-align: left;"><app-section _ngcontent-sc74="" sectionname="/common-links" _nghost-sc73=""><div _ngcontent-sc73="" class="ng-star-inserted"><!----><div _ngcontent-sc73="" class="ng-star-inserted"><h4>常用連結</h4>
+<div class="col-sm-4">
+<ul class="clearlist">
+<li><a href="https://lms.ntpu.edu.tw/site/job" target="_blank" rel="noopener" title="Internship">Internship</a></li>
+<li><a href="https://sea.cc.ntpu.edu.tw/pls/eval/cmap_3sys.main" target="_blank" rel="noopener" title="課程地圖">Courses Map</a></li>
+<li><a href="http://lms.ntpu.edu.tw/board.php?courseID=47426" target="_blank" rel="noopener" title="跨領域學習專區">Interdisciplinary Courses</a></li>
+<li><a href="https://www.facebook.com/NTPUSU" target="_blank" rel="noopener" title="學生會">Student Union</a></li>
+<li><a href="https://www.facebook.com/NTPUSC/" target="_blank" rel="noopener" title="學生議會">Student Congress</a></li>
+<li><a href="https://lms.ntpu.edu.tw/site/assistant" target="_blank" rel="noopener" title="學生兼任助理專區">Students Assistant</a></li>
+<li><a href="https://www.ntpu.edu.tw/admin/a8/org/a8-4/scholarship.php" target="_blank" rel="noopener" title="本校獎助學金">Scholarship</a></li>
+<li><a href="http://vod.ntpu.edu.tw/" target="_blank" rel="noopener" title="演講網">VOD</a></li>
+<li><a href="https://lms.ntpu.edu.tw/site/imf" target="_blank" rel="noopener" title="學雜費專區">Tuition</a></li>
+<li><a href="https://lms.ntpu.edu.tw/site/international" target="_blank" rel="noopener" title="國際經驗分享">International Experience</a></li>
+</ul>
+</div>
+<div class="col-sm-4">
+<ul class="clearlist">
+<li><a href="https://www.ir.ntpu.edu.tw/" target="_blank" rel="noopener" title="校務研究辦公室">Office of IR</a></li>
+<li><a href="https://apps1.ntpu.edu.tw/ethics/public/home" target="_blank" rel="noopener" title="學術倫理辦公室">Office of Ethics</a></li>
+<li><a href="http:/usr.ntpu.edu.tw" target="_blank" rel="noopener" title="大學社會責任辦公室">Office of USR</a></li>
+<li><a href="https://www.ntpu.edu.tw/ntpuNews/" target="_blank" rel="noopener" title="臺北大學校訊">Newsletters</a></li>
+<li><a href="http://www.ntpu.edu.tw/repair/" target="_blank" rel="noopener" title="公共藝術">Public Art</a></li>
+<li><a href="https://esdg.ntpu.edu.tw/" target="_blank" title="永續報告" rel="noopener">Sustainability Report</a></li>
+<li><a href="https://www.ntpu.edu.tw/copyright/" target="_blank" title="智慧財產專區" rel="noopener">Intellectual Property</a></li>
+<li><a href="https://www.ntpu.edu.tw/privacy.php" target="_blank" rel="noopener" title="隱私權政策">Privacy</a></li>
+<li><a href="https://lms.ntpu.edu.tw/site/pinfoweb" target="_blank" rel="noopener" title="個人資料保護專區">Personal Data Protection</a></li>
+<li><a href="https://lms.ntpu.edu.tw/board.php?courseID=47483" target="_blank" rel="noopener" title="隨班附讀">Audit Courses</a></li>
+</ul>
+</div>
+<div class="col-sm-4">
+<ul class="clearlist">
+<li><a href="https://www.ntpu.edu.tw/hr/hr.php" target="_blank" rel="noopener" title="人才招募">Jobs</a></li>
+<li><a href="https://www.ntpu.edu.tw/admin/a9/org/a9-2/place_intro.php" target="_blank" rel="noopener" title="場地租借">Venue rental</a></li>
+<li><a href="https://www.ntpu.edu.tw/admin/a14/org/a14-1/news.php?class_id=25" target="_blank" rel="noopener" title="科技部計畫申請">MOST Program Application</a></li>
+<li><a href="https://www.ntpu.edu.tw/admin/a14/org/a14-3/news.php?class_id=1" target="_blank" rel="noopener" title="建教合作計畫申請">Cooperative Education</a></li>
+<li><a href="https://lms.ntpu.edu.tw/site/retiredclub" target="_blank" rel="noopener" title="退休教職員聯誼會">Club of Retired Faculty and Staff</a></li>
+<li><a href="https://www.ntpu.edu.tw/gov_links.php" target="_blank" rel="noopener" title="政府重要資訊">Government Information</a></li>
+<li><a href="https://meeting.ntpu.edu.tw/" target="_blank" rel="noopener" title="無紙化整合平台">Meeting System</a></li>
+<li><a href="https://www.ntpu.edu.tw/chinese/about/contact14.php" target="_blank" rel="noopener" title="緊急聯絡資訊">Emergency Contact</a></li>
+<li><a href="http://cof.ntpu.edu.tw/connect/land_bank.html" target="_blank" rel="noopener" title="土銀代收學費">Tuition Fee System</a></li>
+<li><a href="https://ntpugift.colaz.com.tw/" target="_blank" rel="noopener" title="臺北大學紀念品">NTPU Souvenir</a></li>
+</ul>
+</div></div><!----><!----><!----><!----><!----><!----></div><!----></app-section></div></div></div></div><div _ngcontent-sc74="" class="footer-text"><div _ngcontent-sc74="" class="footer-copy font-alt"> © FOOTER.國立臺北大學 2019 </div><div _ngcontent-sc74="" class="footer-made" style="color: #666;"> FOOTER.追求真理，服務人群 </div></div></div><div _ngcontent-sc74="" class="local-scroll"><a _ngcontent-sc74="" aria-label="回到頂端" href="../index.html#top" class="link-to-top"><i _ngcontent-sc74="" class="fa fa-caret-up"></i></a></div></footer></app-footer></div></app-root>
+<noscript>Please enable JavaScript to continue using this application.</noscript>
+<script async="" src="https://apis.google.com/js/platform.js"></script>
+<script src="../runtime-es2020.06530a6fa590ebdb6242.js" type="module"></script><script src="../runtime-es5.06530a6fa590ebdb6242.js" nomodule="" defer=""></script><script src="../polyfills-es5.cb52f364bf82e2b41898.js" nomodule="" defer=""></script><script src="../polyfills-es2020.655082c69c14a7b3b96a.js" type="module"></script><script src="../scripts.0e7c6a38d6689788a2de.js" defer=""></script><script src="../main-es2020.2e0ef85d8b076ac33390.js" type="module"></script><script src="../main-es5.2e0ef85d8b076ac33390.js" nomodule="" defer=""></script>
+
+<div class="cdk-live-announcer-element cdk-visually-hidden" aria-atomic="true" aria-live="polite"></div></body></html>
